@@ -1,7 +1,7 @@
 name: Test Project
 on: push
 jobs: 
-    test:      
+    test:
     steps:
       runs-on: ubuntu-latest
       steps:
